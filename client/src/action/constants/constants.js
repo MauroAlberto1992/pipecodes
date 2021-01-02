@@ -1,0 +1,3 @@
+export const ERROR_DIALOG = "ERROR_DIALOG";
+export const GET_QUESTIONS = "GET_QUESTIONS";
+export const SAVE_QUESTION = "SAVE_QUESTION";
