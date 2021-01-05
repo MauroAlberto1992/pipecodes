@@ -1,2 +1,2 @@
 # pipecodes
-Project with NodeJs + React + Reduz
+Project with NodeJs + React + Redux
